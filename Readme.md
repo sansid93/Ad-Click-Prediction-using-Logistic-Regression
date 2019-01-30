@@ -24,5 +24,3 @@ The Sigmoid or the Logistic function has been used as an activation function in 
 
 ## Accuracy of the model:
 The Model thus developed is 90% accurate in predicting whether the user has clicked on the advertisement or not based on the browsing behaviour of the user.
-
-  Import seaborn from numpy
