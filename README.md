@@ -1,6 +1,6 @@
 ## Logistic regression to predict the customer behaviour for clicking on the advertisement
 
-About the project:
+#### About the project:
 This is the advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website. We will try to create a Logistic Regression model that will predict whether or not they will click on an ad based off the features of that user.
 
 Analyzing the data:
