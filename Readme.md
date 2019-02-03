@@ -10,7 +10,7 @@ This data set contains the following features:
 *	'Age': cutomer age in years
 *	'Area Income': Avg. Income of geographical area of consumer
 *	'Daily Internet Usage': Avg. minutes a day consumer is on the internet
--	'Ad Topic Line': Headline of the advertisement
+*	'Ad Topic Line': Headline of the advertisement
 *	'City': City of consumer
 *	'Male': Whether or not consumer was male
 *	'Country': Country of consumer
